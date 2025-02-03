@@ -1,0 +1,6 @@
+fastapi
+cv2
+mediapipe
+numpy
+joblib
+shutil
